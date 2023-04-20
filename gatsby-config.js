@@ -12,7 +12,7 @@ module.exports = {
     title: `Sola Tech Blog`,
     description: `This is my tech blog!`,
     author: `sola`,
-    siteUrl: `https://gatsbystarterdefaultsource.gatsbyjs.io/`,
+    siteUrl: "https://devsoladev.github.io/",
   },
   plugins: [
     {
@@ -25,7 +25,7 @@ module.exports = {
     {
       resolve: "gatsby-plugin-canonical-urls",
       options: {
-        siteUrl: "<https://my-website.com/>",
+        siteUrl: "https://devsoladev.github.io/",
         stripQueryString: true,
       },
     },

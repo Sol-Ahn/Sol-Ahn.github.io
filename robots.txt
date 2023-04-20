@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://devsoladev.github.io/sitemap-index.xml
+Host: https://devsoladev.github.io
